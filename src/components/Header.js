@@ -61,7 +61,7 @@ const Header = ( { history}) => {
         <div className="wrapper">
           <div className="inner-header">
             <div className="logo">
-              <Link to='/'>RC.</Link>
+              <Link to='/'>BRAND.</Link>
             </div>
             <div className="menu">
               <button disabled={disabled} onClick={handleMenu}>Menu</button>
